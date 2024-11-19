@@ -1,0 +1,23 @@
+{
+    "name": "interplanetary-fulgoran-construction",
+    "title": "interplanetary-fulgoran-construction",
+    "description": "Among the ruins stands a very powerful and power hungry machine.",
+
+    "version": "0.0.1",
+    "author": "Intrets",
+    "factorio_version": "2.0",
+
+    "quality_required": false,
+    "rail_bridges_required": false,
+    "space_travel_required": true,
+    "spoiling_required": false,
+    "freezing_required": false,
+    "segmented_units_required": false,
+    "expansion_shaders_required": false,
+
+    "dependencies": [
+        "base",
+        "~ space-age",
+        "intrets-lib"
+    ]
+}
